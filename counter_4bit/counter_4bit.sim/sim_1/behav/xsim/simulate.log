@@ -1,0 +1,3 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+$finish called at time : 107 ns : File "/home/it/Desktop/DebugginTEST/counter_4bit/counter_4bit.srcs/sim_1/new/tb_counter_4bit.sv" Line 37
