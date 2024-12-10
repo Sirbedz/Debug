@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/DebugginTEST/counter_4bit.sv,1733819057,systemVerilog,,/home/it/Desktop/DebugginTEST/d_flipflop.sv,,counter_4bit,,,,,,,,
+/home/it/Desktop/DebugginTEST/d_flipflop.sv,1733817152,systemVerilog,,/home/it/Desktop/DebugginTEST/d_latch_asyn_rstn.sv,,d_flipflop,,,,,,,,
+/home/it/Desktop/DebugginTEST/d_latch_asyn_rstn.sv,1733816115,systemVerilog,,/home/it/Desktop/DebugginTEST/mux2x1.sv,,d_latch_asyn_rstn,,,,,,,,
+/home/it/Desktop/DebugginTEST/fourbit_counter/fourbit_counter.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/DebugginTEST/fourbit_counter/fourbit_counter.srcs/sim_1/new/tb_fourbitcounter.sv,1733819524,systemVerilog,,,,tb_fourbitcounter,,,,,,,,
+/home/it/Desktop/DebugginTEST/mux2x1.sv,1733812738,systemVerilog,,/home/it/Desktop/DebugginTEST/fourbit_counter/fourbit_counter.srcs/sim_1/new/tb_fourbitcounter.sv,,mux2x1,,,,,,,,
